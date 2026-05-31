@@ -27,3 +27,4 @@ Ensure you have Python 3.8+ and the cryptography library installed.
 ```bash
 pip install cryptography
 python main.py
+
